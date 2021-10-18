@@ -1,4 +1,7 @@
 # TDEws
  Trabalho Discente Efetivo de Web Services Consumindo Correios
 
-Aluno: Tayrine Lopes Guimar�es
+Alunos:  - Tayrine Lopes Guimarães
+         - Lucas Martins De Faria
+         - Nathan Gonçalves
+         - Douglas Côrte 
